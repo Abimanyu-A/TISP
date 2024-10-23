@@ -1,2 +1,2 @@
 # TISP
-whatever
+threat intelligence sharing platform-intelBear
