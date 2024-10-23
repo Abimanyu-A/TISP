@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+  @apply w-3/4 p-3 mb-4 border border-gray-300 rounded focus:outline-none focus:ring focus:ring-indigo-300;
+}
+
+.btn {
+  @apply w-3/4 bg-indigo-600 text-white py-3 px-4 rounded hover:bg-indigo-700 transition duration-200;
+}
